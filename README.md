@@ -65,6 +65,8 @@
 
 ###
 
+<br clear="right" />
+
 <h3 align="left">🔥   Minhas Estastísticas :</h3>
 
 ###
