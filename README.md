@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">📍 Sou de São Paulo, SP<br>🎓 Estudo atualmente na FATEC Ipiranga, Análise e Desenvolvimento de Sistemas no 1° Semestre<br>💻 Praticando habilidades e buscando conhecimento todo dia sobre novas ferramentas e tecnologias para me tornar um Developer Back-End!<br>🛜 Sempre buscando novas conexões para compartilhar experiências por meio das minhas redes sociais</p>
+<p align="left">📍 Sou de São Paulo, SP<br>🎓 Estudo atualmente na FATEC Ipiranga, Análise e Desenvolvimento de Sistemas no 2° Semestre<br>💻 Praticando habilidades e buscando conhecimento todo dia sobre novas ferramentas e tecnologias para me tornar um Developer Back-End!<br>🛜 Sempre buscando novas conexões para compartilhar experiências por meio das minhas redes sociais</p>
 
 ###
 
